@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "f0977138c9324c26a0780af1",
+  "owner": "pupnjnqu",
+  "repo": "page-2381cd2d002582cd75c1bbbb",
+  "title": "优游互联(UU)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2381cd2d002582cd75c1bbbb",
+      "a": "优游互联(UU)",
+      "b": "2027官方最新地址导航",
+      "entity": "优游互联(UU)",
+      "brand": "优游互联(UU)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "2531e242f5cd58e491585f44be8ce7d194e0b076d4e82a61dd577b8319ebd4d9",
+      "content": {
+        "primary_entity": "优游互联(UU)",
+        "keyword1": "优游互联(UU)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应订阅客户端，再导入订阅链接完成配置。",
+          "AI_CLIENTS_TITLE": "设备与客户端选择",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选择合适套餐，按客户端文档完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "按需选择套餐，完成订阅配置",
+          "AI_DESCRIPTION": "，优游互联(UU)面向需要海外网络加速的用户，提供基础版、旗舰版与团队版三档订阅方案，覆盖不同设备数量与流量需求。基础版适合单人日常使用，旗舰版增加 IPLC 专线与优先工单支持，团队版面向多设备小组。选定套餐后，按设备系统下载对应订阅客户端并导入订阅链接，即可按文档完成配置。",
+          "AI_FEATURES_INTRO": "从套餐、设备与订阅周期三个角度了解选择要点。",
+          "AI_FEATURES_TITLE": "选择优游互联的三个要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量，适合一至两人轻度使用，同一账号支持 3 台设备在线。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量，支持 5 台设备，含 IPLC 专线节点，适合游戏与流媒体。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量，支持 20 台设备，可定制企业路由并配备专属客户经理。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TITLE_2": "按设备数量选",
+          "AI_FEATURE_TITLE_3": "按订阅周期选",
+          "AI_GUIDE_INTRO": "三步完成从选套餐到配置订阅的过程。",
+          "AI_GUIDE_TITLE": "使用优游互联的步骤",
+          "AI_HERO_INTRO": "优游互联(UU)提供海外网络加速订阅服务，按流量与设备数量划分为基础版、旗舰版和团队版。不同套餐在节点线路、设备数量与支持响应上各有侧重，可结合日常使用场景选择。",
+          "AI_HERO_SUBTITLE": "海外加速订阅，按需选择套餐",
+          "AI_HIGHLIGHT_1": "基础版每月 100GB，支持 3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线，支持 5 台设备",
+          "AI_HIGHLIGHT_3": "团队版每月 1000GB，支持 20 台设备",
+          "AI_PLANS_INTRO": "基础版适合单人轻度使用，旗舰版适合游戏与流媒体，团队版适合多设备小组，可按流量和在线设备数对比。",
+          "AI_PLANS_TITLE": "套餐对比与选择",
+          "AI_STEP_TEXT_1": "根据日常流量和同时在线设备数量，在基础版、旗舰版与团队版之间确定合适套餐。",
+          "AI_STEP_TEXT_2": "确认所选套餐的设备数量上限与流量额度是否满足当前使用需求。",
+          "AI_STEP_TEXT_3": "按设备系统下载对应客户端，参考客户端文档导入订阅链接完成配置。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅客户端",
+          "AI_VISUAL_TITLE": "优游互联海外加速订阅",
+          "AI_FAQ_ANSWER_1": "基础版支持3台设备同时在线，旗舰版5台，团队版20台。设备数量通常按同时连接计算，切换设备不影响已用流量。",
+          "AI_FAQ_ANSWER_2": "基础版每月100GB，旗舰版300GB，团队版1000GB。流量月底清零，不累计到下月，按需选择档位即可。",
+          "AI_FAQ_ANSWER_3": "旗舰版提供IPLC专线游戏加速优化与全节点原生流媒体解锁，基础版解锁基础流媒体，团队版配备VIP专属高带宽节点。",
+          "AI_FAQ_ANSWER_4": "年付比月付划算。基础版年付150元，旗舰版年付350元，团队版年付850元，适合长期稳定使用的用户。",
+          "AI_FAQ_ANSWER_5": "各档套餐针对不同使用场景设计，用户可根据设备数量、流量需求与节点偏好自行选择合适的方案。",
+          "AI_FAQ_INTRO": "套餐对比、客户端适配与订阅配置。",
+          "AI_FAQ_QUESTION_1": "套餐最多支持几台设备同时在线？",
+          "AI_FAQ_QUESTION_2": "各档套餐的月流量分别是多少？",
+          "AI_FAQ_QUESTION_3": "旗舰版在节点上有什么优势？",
+          "AI_FAQ_QUESTION_4": "月付和年付怎么选更划算？",
+          "AI_FAQ_QUESTION_5": "如何判断自己适合哪个套餐？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "fsmbapm.cn",
+    "host": "fsmbapm.cn"
+  },
+  "file_hashes": {
+    "index.html": "8913cb7415b94661e4124911e42d3345cbb8aab1c368d7fca3cc96e4356d4119",
+    "sitemap.xml": "9f513bd6208c1e585c75aa4313148ad703a0ef449069fccc2afe905fe48dbb07",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a082a64013773f05340f83d3b26993879e07c0f6a4f5c09babd31a0ea1169314",
+    "robots.txt": "2455b906f1c56ae08d45ebddb7038327a3d42fb084efcce56dd6aeaa7f9823a7",
+    "1efee690f408956eb39bca5dd5a787ff.txt": "3ca3511a65f627be47a1c237e2f55de4217f9c24b4fa9524f021c800551deeb5"
+  },
+  "revision": "ca796df09a65abc756bd51f4371bd72e094dcebf7d7de1fd55edeabddb2f442f"
+}
